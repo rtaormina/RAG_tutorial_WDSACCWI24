@@ -6,6 +6,6 @@ This Jupyter Notebook explains the basics of Retrieval Augmented Generation (RAG
 You can run it in Google Colab using a T4 GPU. The basic RAG applications in the tutorial will illustrate how to ground the LLM generation with knowledge from USEPA [WNTR](https://github.com/USEPA/WNTR) documention and an online blog from [DHI](https://blog.dhigroup.com/best-practices-to-address-aging-urban-water-infrastructure/). 
 
 ## Tools Used
-- [**HuggingFace:**](https://huggingface.co)
-- [**Langchain:**](https://www.langchain.com)
+- [**HuggingFace**](https://huggingface.co)
+- [**Langchain**](https://www.langchain.com)
 - [**Microsoft Phi3:mini LLM**](https://huggingface.co/microsoft/Phi-3-vision-128k-instruct)
