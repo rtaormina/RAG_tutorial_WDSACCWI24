@@ -6,4 +6,4 @@ This Jupyter Notebook explains the basics of Retrieval Augmented Generation (RAG
 ## Tools Used
 - [**HuggingFace:**](https://huggingface.co)
 - [**Langchain:**](https://www.langchain.com)
-- [**Microsoft Phi3:mini LLM](https://huggingface.co/microsoft/Phi-3-vision-128k-instruct)
+- [**Microsoft Phi3:mini LLM**](https://huggingface.co/microsoft/Phi-3-vision-128k-instruct)
