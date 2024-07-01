@@ -3,7 +3,7 @@ This repository contains the practical Jupyter Notebook for the short course "La
 
 This Jupyter Notebook explains the basics of Retrieval Augmented Generation (RAG) to ground Large Language Models (LLM) using relevant content and the basic steps for the creation of a chatbot.
 
-You can run it in Google Colab using a T4 GPU. The basic RAG applications in the tutorial will illustrate how to ground the LLM generation with knowledge from [USEPA WNTR](https://github.com/USEPA/WNTR) documention and an online blog from DHI. 
+You can run it in Google Colab using a T4 GPU. The basic RAG applications in the tutorial will illustrate how to ground the LLM generation with knowledge from USEPA [WNTR](https://github.com/USEPA/WNTR) documention and an online blog from [DHI](https://blog.dhigroup.com/best-practices-to-address-aging-urban-water-infrastructure/). 
 
 ## Tools Used
 - [**HuggingFace:**](https://huggingface.co)
